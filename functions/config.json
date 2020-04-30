@@ -1,0 +1,8 @@
+{
+    "lineMessagingApi":"https://api.line.me/v2/bot/message",
+    "lineHeaders":{
+        "Content-Type":"application/json",
+        "Authorization":"Bearer GrEONUM5if/WkoLXedM8u3rjauHynk5lYlSNY/uLuzhGv4oWh4oFA44adB2TBj8VE6hEVLlXw5DqPMx34mFfIWYf9/yBrANUnoqmRCcABCjAzMH5YVotp8YeXoufUGEOQYpEpJ8zVWm+Jc2uy1sDtwdB04t89/1O/w1cDnyilFU="
+    },
+    "databaseURL":"https://[interview-6a634].firebaseio.com"
+}
